@@ -1,0 +1,4 @@
+# Ignora a pasta do ambiente virtual
+venv/
+.env/
+ENV/
